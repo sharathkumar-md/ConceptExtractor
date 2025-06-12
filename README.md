@@ -14,6 +14,28 @@ Build a program that:
 - Can be easily integrated with LLM APIs for enhanced concept extraction
 
 
+**Student**: Sharath Kumar MD  
+**Roll Number**: 23B2150    
+**GitHub**: https://github.com/sharathkumar-md/ConceptExtractor
+
+## Previous Project Portfolio
+
+### 🤖 [Multimodal RAG System](https://github.com/sharathkumar-md/MultiModal_RAG) | Self Project (Aug'24 - Sep'24)
+- **Implemented a chatbot** capable of Chat with documents in various formats such as PDF, URL and text
+- **Developed Multimodal RAG chatbot** that responds with both text and images using Llama-Index
+- **Employed FAISS and Chroma vector DB** for scalable retrieval of relevant information and large datasets
+- **Skills**: RAG Architecture, Vector Databases, Multimodal AI, LlamaIndex
+
+### 💰 [Bitcoin Price Prediction using ML](https://github.com/sharathkumar-md/SoC-Project) | Season of Code, WNCC | IIT Bombay (May'24 - Jul'24)
+- **Explored and precisely visualized** Bitcoin price data, significantly enhancing data analysis skills
+- **Implemented various models** such as Logistic Regression, SVC, and XGBoost to improve performance
+- **Developed key features** - open-close and low-high price variations to enhance model effectiveness
+- **Evaluated model performance** using ROC AUC scores and confusion matrices to assess predictive accuracy
+- **Skills**: Machine Learning, Financial Data Analysis, Feature Engineering, Model Evaluation
+
+
+
+**##ConceptExtractor**
 ## Project Structure
 
 ```
